@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 庄梓轩
+title: Zixuan Zhuang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student, Sun Yat-sen University
+role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
