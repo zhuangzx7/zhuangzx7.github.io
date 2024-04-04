@@ -1,6 +1,6 @@
 ---
 title: 'Star-Searcher: A Complete and Efficient Aerial System for Autonomous Target Search in Complex Unknown Environments'
-Yiming Luo, Zixuan Zhuang, Neng Pan, Chen Feng, Shaojie Shen, Fei Gao, Hui Cheng, Boyu Zhou
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
