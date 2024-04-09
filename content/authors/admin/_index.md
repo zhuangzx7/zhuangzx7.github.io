@@ -17,20 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student
+role: Master student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Sun Yat-sen University
-    url: http://lab.sysu-robotics.com/lab.html
+    url: http://lab.sysu-robotics.com/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in mobile manipulation and learning-based planning and control.
+bio: I am interested in mobile manipulation, learning-based planning & control and aerial Robots.
 
 # Interests to show in About widget
 interests:
   - Mobile Manipulation
   - Learning-based Planning & Control
+  - Aerial Robots
 
 # Education to show in About widget
 education:
@@ -119,5 +120,5 @@ education:
 highlight_name: true
 ---
 
-Zixuan is currently a Master student supervised by [Prof. Hui Cheng](https://cse.sysu.edu.cn/content/2504) at [RAPIDLAB](http://lab.sysu-robotics.com/lab.html), which is part of the School of Computer Science and Engineering, at Sun Yat-sen University. He was also a visiting student at [SYSU STAR Group](http://sysu-star.com/), under the supervision of [Prof. Boyu Zhou](https://sai.sysu.edu.cn/teacher/zljs/1408796.htm). Before his Master, Zixuan received his bachelor's degree in Electrical Engineering and Automation from [Northeastern University](http://www.ise.neu.edu.cn/).
+Zixuan is currently a Master student supervised by [Prof. Hui Cheng](https://cse.sysu.edu.cn/content/2504) at [RAPIDLAB](http://lab.sysu-robotics.com/index.html), which is part of the School of Computer Science and Engineering, at Sun Yat-sen University. He was also a visiting student at [SYSU STAR Group](http://sysu-star.com/), under the supervision of [Prof. Boyu Zhou](https://sai.sysu.edu.cn/teacher/zljs/1408796.htm). Before his Master, Zixuan received his bachelor's degree in Electrical Engineering and Automation from [Northeastern University](http://www.ise.neu.edu.cn/).
 {style="text-align: justify;"}

@@ -72,7 +72,7 @@ sections:
           description: ''
           icon: ''
           organization: Northeastern University 
-          organization_url: https://www.robomaster.com/zh-CN
+          organization_url: https://www.neu.edu.cn/
           title: Outstanding Graduates of Northeastern University
           url: ''
         # - certificate_url: https://www.edx.org
