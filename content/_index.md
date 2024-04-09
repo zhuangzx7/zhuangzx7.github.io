@@ -65,6 +65,16 @@ sections:
           organization_url: https://www.robomaster.com/zh-CN
           title: IEEE ICRA2022 RoboMaster University AI Challenge
           url: ''
+
+        - certificate_url: http://www.ise.neu.edu.cn/
+          date_end: ''
+          date_start: '2023-05-26'
+          description: ''
+          icon: ''
+          organization: Northeastern University 
+          organization_url: https://www.robomaster.com/zh-CN
+          title: Outstanding Graduates of Northeastern University
+          url: ''
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
