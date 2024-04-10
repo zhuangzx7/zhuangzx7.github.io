@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student 
+role: MS in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sun Yat-sen University
+  - name: SYSU RAPIDLAB
     url: http://lab.sysu-robotics.com/index.html
 
 # Short bio (displayed in user profile at end of posts)
