@@ -120,5 +120,5 @@ education:
 highlight_name: true
 ---
 
-Zixuan is currently a Master student supervised by [Prof. Hui Cheng](https://cse.sysu.edu.cn/content/2504) at [RAPIDLAB](http://lab.sysu-robotics.com/index.html), which is part of the School of Computer Science and Engineering, at Sun Yat-sen University. He was also a visiting student at [SYSU STAR Group](http://sysu-star.com/), under the supervision of [Prof. Boyu Zhou](https://sai.sysu.edu.cn/teacher/zljs/1408796.htm). Before his Master, Zixuan received his Bachelor's degree in Electrical Engineering and Automation from [Northeastern University](http://www.ise.neu.edu.cn/).
+Zixuan is currently a Master student supervised by [Prof. Hui Cheng](https://cse.sysu.edu.cn/content/2504) at [SYSU RAPIDLAB](http://lab.sysu-robotics.com/index.html), which is part of the School of Computer Science and Engineering, at [Sun Yat-sen University](https://cse.sysu.edu.cn/). He was also a visiting student at [SYSU STAR Group](http://sysu-star.com/), under the supervision of [Prof. Boyu Zhou](https://sai.sysu.edu.cn/teacher/zljs/1408796.htm). Before his Master, Zixuan received his Bachelor's degree in Electrical Engineering and Automation from [Northeastern University](http://www.ise.neu.edu.cn/).
 {style="text-align: justify;"}
