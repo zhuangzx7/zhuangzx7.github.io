@@ -73,7 +73,7 @@ sections:
           icon: ''
           organization: Northeastern University 
           organization_url: https://www.neu.edu.cn/
-          title: Outstanding Graduates of Northeastern University
+          title: Outstanding Graduate of Northeastern University
           url: ''
         # - certificate_url: https://www.edx.org
         #   date_end: ''

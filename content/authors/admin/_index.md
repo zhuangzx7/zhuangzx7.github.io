@@ -39,10 +39,10 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
       # year: 2012
-    - course: MEng in Computer Science and Engineering
+    - course: M.Eng in Computer Engineering
       institution: Sun Yat-sen University, China
       # year: 2009
-    - course: BEng in Electrical Engineering and Automation
+    - course: B.Eng in Electrical Engineering and Automation
       institution: Northeastern University, China
       # year: 2008
 
